@@ -1,3 +1,4 @@
 [submodule "file-organizer"]
 	path = file-organizer
 	url = https://github.com/NotSovetSpy/file-organizer.git
+	branch = main
